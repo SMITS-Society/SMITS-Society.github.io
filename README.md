@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/SMITS-Society/SMITS-Societ
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+You can see our [Num theory public releases](https://smits-society.github.io/Num_theory-release/)here.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
