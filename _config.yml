@@ -1,5 +1,10 @@
 title: "The SMITS Society"
 description: "Official website of the SMITS society"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://smits.github.io
+url: https://smits-society.github.io
 theme: jekyll-theme-merlot
+read_time: 2 minutes
+
+author:
+  name: The SMITS Society
+  email: shane26@sina.cn
