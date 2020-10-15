@@ -1,1 +1,5 @@
+title: "The SMITS Society"
+description: "Official website of the SMITS society"
+baseurl: # the subpath of your site, e.g. "/blog"
+url: https://smits.github.io
 theme: jekyll-theme-merlot
