@@ -8,3 +8,8 @@ read_time: 2 minutes
 author:
   name: The SMITS Society
   email: shane26@sina.cn
+
+footer_links:
+  - title: Email
+    url: mailto:shane26@sina.cn
+    icon: fas fa-envelope
