@@ -1,46 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SMITS-Society/SMITS-Society.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-You can see our [Num theory public releases](https://smits-society.github.io/Num_theory-release/)here.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-`#include <iostream>
-int main(){
-  std::cout<<"Hello from SMITS!"<<std::endl;
-  }
- `
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SMITS-Society/SMITS-Society.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# SMITS
+  Greetings from the SMITS society!
+  We are a young organization. Established on July 11th, 2020, we have our headquaters set in Chongqing and we have members from various places all over China.
+## How to contact us
+  You can contact us at shane26@sina.cn. As soon as we know what you need, we will reply to you as soon as possible. We welcome new members and advice on our repositories.
