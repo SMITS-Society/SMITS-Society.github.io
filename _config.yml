@@ -2,7 +2,7 @@ title: "The SMITS Society"
 description: "Official website of the SMITS society"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://smits-society.github.io
-theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
 read_time: 2 minutes
 
 author:
